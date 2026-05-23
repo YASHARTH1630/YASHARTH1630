@@ -1,13 +1,9 @@
 <h1 align="center">Hey 👋, I'm YASHARTH YASH</h1>
 <h3 align="center">AI/ML Enthusiast • Data Science Explorer • Future ML Engineer </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Deep+Learning+Explorer;Python+%7C+TensorFlow+%7C+PyTorch;Building+AI+Projects+Everyday;MERN Developer" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV6aG5hNm1xczE2b2x3M2V0eXl6aWF4aW5obzR5dXJ0NXQ4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif">
+<<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Developer;Deep+Learning+Explorer;Python+%7C+TensorFlow+%7C+PyTorch;Building+AI+Projects+Everyday;MERN+Stack+Developer" alt="Typing SVG" />
+</p>">
 
 ## 🚀 About Me
 
