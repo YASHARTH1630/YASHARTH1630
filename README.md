@@ -38,7 +38,7 @@
 ## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,node.js,flask,express.js,streamlit,python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,jupyter,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,flask,streamlit,python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,git,github,jupyter,vscode,cpp" />
 </p>
 
 ---
@@ -50,6 +50,7 @@
 - 🔹 **Student Math Score Predictor**
 - 🔹 **Listing- Travel Explorer website**
 - 🔹 **Spam Email Classifier**
+- 🔹 **Sentiment Analysis**
 
 ---
 
