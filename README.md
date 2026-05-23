@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm YASHARTH YASH</h1>
 <h3 align="center">AI/ML Enthusiast • Data Science Explorer • Future ML Engineer </h3>
 
-<<p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Developer;Deep+Learning+Explorer;Python+%7C+TensorFlow+%7C+PyTorch;Building+AI+Projects+Everyday;MERN+Stack+Developer" alt="Typing SVG" />
-</p>">
+</p>
 
 ## 🚀 About Me
 
@@ -45,7 +45,6 @@
 
 ## 📌 Featured Projects
 
-### 🤖 AI/ML Projects
 - 🔹 **Next Word Prediction using LSTM**
 - 🔹 **Network Security Prediction System**
 - 🔹 **Student Math Score Predictor**
@@ -75,14 +74,6 @@
 ## 📈 Contribution Graph
 
 [![Yasharth github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YASHARTH1630&theme=react-dark)](https://github.com/YASHARTH1630))
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YASHARTH1630/YASHARTH1630/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
 
