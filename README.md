@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm YOUR NAME</h1>
-<h3 align="center">AI/ML Enthusiast • Data Science Explorer • Future ML Engineer</h3>
+<h1 align="center">Hey 👋, I'm YASHARTH YASH</h1>
+<h3 align="center">AI/ML Enthusiast • Data Science Explorer • Future ML Engineer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Deep+Learning+Explorer;Python+%7C+TensorFlow+%7C+PyTorch;Building+AI+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Deep+Learning+Explorer;Python+%7C+TensorFlow+%7C+PyTorch;Building+AI+Projects+Everyday;MERN Developer" />
 </p>
 
 ---
@@ -24,9 +24,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/yasharth-yash-5b072437b
-
-" target="blank">
+<a href="www.linkedin.com/in/yasharth-yash-5b072437b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
@@ -41,10 +39,10 @@
 
 ---
 
-## 🧠 AI/ML Tech Stack
+## Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=mongodb,node.js,flask,express.js,streamlit,python,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,mysql,mongodb,git,github,jupyter,vscode,cpp" />
 </p>
 
 ---
@@ -87,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YASHARTH1630/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YASHARTH1630/YASHARTH1630/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
